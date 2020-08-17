@@ -2,7 +2,7 @@
 # Apeperia
 
 <p align="center">
-  <img alt="Logo do projeto" width="150px" src="" />
+  <img alt="Logo do projeto" width="150px" src="https://devjef.github.io/site-apeperia/imagens/logo.png" />
 </p>
 
 > Projeto construido durante o curso [Sass e Compass: Descomplicando o CSS](https://www.alura.com.br/curso-online-sass)
