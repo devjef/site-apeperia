@@ -1,0 +1,8 @@
+//Variáveis usadas no meu Sass
+$cor-padrao: darken(#c24e46, 0);
+$cor-auxiliar: lighten(#1e2c35, 0);
+$cor-branca: #fff;
+$tamanho-da-fonte-padrao: 16px;
+
+//isolando um código inteiro como string em uma variável
+$mq-mobile: '(max-width: 980px)';
